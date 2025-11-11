@@ -1,0 +1,3 @@
+npm install
+python main.py
+git push origin main
